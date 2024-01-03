@@ -1,1 +1,1 @@
-Acest proiect încântător, "BurgerMania - Meniu de Restaurant," este creat cu pasiune folosind notiuni de programare în Python și HTML, dezvoltat în mediul Visual Studio Code. Explorează această aplicație captivantă care aduce la viață universul delicios al burgerilor artizanali.
+The delightful project, "BurgerMania - Restaurant Menu," is crafted with passion using programming concepts in Python and HTML, developed in the Visual Studio Code environment. Explore this captivating application that brings to life the delicious universe of artisanal burgers.
